@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
 | [0090-subsets-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0090-subsets-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1051-height-checker) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
