@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
