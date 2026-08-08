@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1051-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
