@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Counting
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
