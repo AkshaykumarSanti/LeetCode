@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2974-minimum-number-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
