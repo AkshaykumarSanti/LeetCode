@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Recursion
 |  |
