@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
