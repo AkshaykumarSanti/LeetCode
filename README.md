@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2418-sort-the-people](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2418-sort-the-people) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
