@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0657-robot-return-to-origin](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
