@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
