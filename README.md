@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -221,12 +222,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
