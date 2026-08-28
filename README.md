@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
