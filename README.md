@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0061-rotate-list) |
+| [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0198-house-robber) |
+| [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
+| [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0796-rotate-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
