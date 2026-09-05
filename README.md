@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
 ## Divide and Conquer
