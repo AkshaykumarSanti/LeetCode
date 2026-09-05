@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0061-rotate-list) |
+| [0165-compare-version-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
