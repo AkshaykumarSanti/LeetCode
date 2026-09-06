@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
