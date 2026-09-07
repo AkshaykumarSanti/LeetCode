@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0796-rotate-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
