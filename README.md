@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3794-reverse-string-prefix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Sorting
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3794-reverse-string-prefix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Counting Sort
 |  |
