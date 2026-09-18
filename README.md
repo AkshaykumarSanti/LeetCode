@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0263-ugly-number) |
+| [0445-add-two-numbers-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0735-asteroid-collision) |
