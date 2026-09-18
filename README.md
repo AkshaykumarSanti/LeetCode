@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0162-find-peak-element) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
