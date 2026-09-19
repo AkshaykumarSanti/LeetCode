@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0162-find-peak-element) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
