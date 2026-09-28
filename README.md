@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1844-replace-all-digits-with-characters) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0735-asteroid-collision) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
