@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
 | [0890-find-and-replace-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0929-unique-email-addresses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0929-unique-email-addresses) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0890-find-and-replace-pattern) |
+| [0929-unique-email-addresses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0929-unique-email-addresses) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
