@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0165-compare-version-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
