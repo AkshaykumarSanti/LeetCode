@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0198-house-robber) |
 | [0647-palindromic-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -244,10 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0394-decode-string) |
@@ -476,4 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
