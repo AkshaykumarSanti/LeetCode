@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1929-concatenation-of-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2418-sort-the-people](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2974-minimum-number-game) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
