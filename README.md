@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1795-rearrange-products-table](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1890-the-latest-login-in-2020](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 ## Geometry
 |  |
