@@ -4,17 +4,17 @@ class Solution:
         curr = ""
         num = 0
 
-        for ch in s:
-            if ch.isdigit():
-                num = num * 10 + int(ch)
-            elif ch == "[":
-                stack.append((curr,num))
-                curr = ""
+        for i in s:
+            if i.isdigit():
+                num = num * 10 + int(i)
+            elif i == "[":
+                stack.append((curr, num))
                 num = 0
-            elif ch == "]":
+                curr = ""
+            elif i == "]":
                 prev, times = stack.pop()
                 curr = prev + curr * times
             else:
-                curr += ch
-
+                curr = curr + i
+        
         return curr
