@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2418-sort-the-people) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
