@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2485-find-the-pivot-integer](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
