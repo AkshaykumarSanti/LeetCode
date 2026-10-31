@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2169-count-operations-to-obtain-zero](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2169-count-operations-to-obtain-zero](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2352-equal-row-and-column-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2974-minimum-number-game) |
