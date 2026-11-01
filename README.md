@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0260-single-number-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
