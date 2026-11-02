@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0260-single-number-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AkshaykumarSanti/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
