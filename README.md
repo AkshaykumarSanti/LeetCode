@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
 | ------- |
