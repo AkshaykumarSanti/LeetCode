@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2469-convert-the-temperature](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
