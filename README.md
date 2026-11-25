@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2169-count-operations-to-obtain-zero](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AkshaykumarSanti/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AkshaykumarSanti/LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
